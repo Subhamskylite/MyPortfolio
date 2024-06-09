@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Zycus",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "experiences": [],
+    "imageSrc": "history/google.png"
+  },
+  
+  {
+    "role": "SWE Intern",
+    "organisation": "Coding Ninjas",
+    "startDate": "June, 2022",
+    "endDate": "September, 2022",
+    "experiences": [
+      "Debugged several codes, aiding comprehension of challenging DSA topics",
+      "Resolved 500+ doubts with a 4.7 average rating"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Gym Exercises",
+    "imageSrc": "projects/gym_exercises.png",
+    "description": "A fitness app with customizable exercise categories and similar exercises display.",
+    "skills": ["HTML", "CSS", "JavaScript", "ReactJS", "RapidAPI", "Material UI"],
+    "demo": "https://new-gym-exercise-app.onrender.com",
+    "source": "https://github.com/Subhamskylite/gym_exercises"
+  },
+  {
+    "title": "Typing Test",
+    "imageSrc": "projects/typingtest.png",
+    "description": "A ReactJS frontend project which measures how fast a user types within a specific timeframe.",
+    "skills": ["HTML", "CSS", "JavaScript", "ReactJS"],
+    "demo": "https://6576e4aba8508d5affee19de--glistening-malasada-617cd8.netlify.app/",
+    "source": "https://github.com/Subhamskylite/TypingTest/tree/main/react-typing-test-main"
+  },
+  {
+    "title": "Real Estate",
+    "imageSrc": "projects/realestate.png",
+    "description": "A modern real estate marketplace built using MERN stack with JWT authentication and Redux Toolkit.",
+    "skills": ["MongoDB", "Express", "Node","React","Redux"],
+    "demo": "https://real-estate-ztil.onrender.com/",
+    "source": "https://github.com/Subhamskylite/real-estate"
+  }
+  
+]
