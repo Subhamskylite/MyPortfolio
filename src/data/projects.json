@@ -20,8 +20,8 @@
     "imageSrc": "projects/realestate.png",
     "description": "A modern real estate marketplace built using MERN stack with JWT authentication and Redux Toolkit.",
     "skills": ["MongoDB", "Express", "Node","React","Redux"],
-    "demo": "https://real-estate-ztil.onrender.com/",
-    "source": "https://github.com/Subhamskylite/real-estate"
+    "demo": "https://real-estate-app-subham.onrender.com/",
+    "source": "https://github.com/Subhamskylite/real-estate-app"
   }
   
 ]
