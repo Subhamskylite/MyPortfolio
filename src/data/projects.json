@@ -12,7 +12,7 @@
     "imageSrc": "projects/typingtest.png",
     "description": "A ReactJS frontend project which measures how fast a user types within a specific timeframe.",
     "skills": ["HTML", "CSS", "JavaScript", "ReactJS"],
-    "demo": "https://6576e4aba8508d5affee19de--glistening-malasada-617cd8.netlify.app/",
+    "demo": "https://typingtest-81jp.onrender.com",
     "source": "https://github.com/Subhamskylite/TypingTest/tree/main/react-typing-test-main"
   },
   {
